@@ -32,6 +32,7 @@ In this tutorial, we will dissect a specific regex that validates email addresse
 - Bracket expressions, denoted by ```[]```, define a character set from which a single character can match. In our regex, ```[\w\.-]``` matches word characters, dots, and hyphens, allowing us to capture valid username and domain characters.
 
 ### Character Classes
+- Character classes are shorthand representations for groups of characters. ```\w``` represents any word character (alphanumeric or underscore), and ```\.``` represents a literal dot. These are used to match parts of the email address.
 
 ### The OR Operator
 
