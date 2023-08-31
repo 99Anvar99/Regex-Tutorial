@@ -23,9 +23,10 @@ In this tutorial, we will dissect a specific regex that validates email addresse
 - Anchors are symbols that help us assert the position of a match in the input string. The ```^``` symbol in our regex indicates the start of the line, and the ```$``` symbol indicates the end of the line. These anchors ensure that the entire string matches the defined pattern.
 
 ### Quantifiers
-- Quantifiers determine how many times a character or group should appear in the input for a match to occur. In our regex, the ```+``` quantifier specifies that the preceding character class (which we'll explain shortly) should appear one or more times.
+- Quantifiers determine how many times a character or group should appear in the input for a match to occur. In our regex, the ```+``` quantifier specifies that the preceding character class should appear one or more times.
 
 ### Grouping Constructs
+- Grouping in regex is denoted by parentheses ```()```. They allow us to treat multiple characters as a single unit and apply quantifiers to that unit. We use grouping in our regex to capture both the username and the domain separately.
 
 ### Bracket Expressions
 
