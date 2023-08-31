@@ -29,6 +29,7 @@ In this tutorial, we will dissect a specific regex that validates email addresse
 - Grouping in regex is denoted by parentheses ```()```. They allow us to treat multiple characters as a single unit and apply quantifiers to that unit. We use grouping in our regex to capture both the username and the domain separately.
 
 ### Bracket Expressions
+- Bracket expressions, denoted by ```[]```, define a character set from which a single character can match. In our regex, ```[\w\.-]``` matches word characters, dots, and hyphens, allowing us to capture valid username and domain characters.
 
 ### Character Classes
 
