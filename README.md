@@ -45,4 +45,9 @@ In this tutorial, we will dissect a specific regex that validates email addresse
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+- This tutorial was crafted with love by Anvar. Feel free to connect with me on GitHub for more coding and development insights.
+
+### GitHub 
+- https://github.com/99Anvar99
+
+Happy learning and regex mastering! 🚀
