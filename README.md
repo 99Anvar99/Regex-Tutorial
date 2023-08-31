@@ -1,10 +1,10 @@
-# Title (replace with your title)
+# Regex Tutorial: Demystifying Regular Expressions
 
-Introductory paragraph (replace this with your text)
+Welcome to the Regex Tutorial! In this guide, we will dive into the world of Regular Expressions (Regex) and explore their power in defining search patterns. As a web development student, understanding Regex will enhance your ability to manipulate and process text effectively, a crucial skill in the realm of web development.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+In this tutorial, we will dissect a specific regex that validates email addresses. Regular expressions might appear daunting at first, but they provide a structured way to match and validate complex patterns. Here's the regex we will be exploring:
 
 ## Table of Contents
 
