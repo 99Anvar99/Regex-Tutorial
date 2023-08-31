@@ -38,6 +38,7 @@ In this tutorial, we will dissect a specific regex that validates email addresse
 - The OR operator ```|``` allows us to match either of the expressions on its sides. We use it to match different top-level domains (TLDs) like ```.com```, ```.net```, etc.
 
 ### Flags
+- Flags are optional settings that modify how the regex is interpreted. While not used in our example, they can change how the matching is performed, like making it case-insensitive with the ```i``` flag.
 
 ### Character Escapes
 
