@@ -20,6 +20,7 @@ In this tutorial, we will dissect a specific regex that validates email addresse
 ## Regex Components
 
 ### Anchors
+- Anchors are symbols that help us assert the position of a match in the input string. The ```^``` symbol in our regex indicates the start of the line, and the ```$``` symbol indicates the end of the line. These anchors ensure that the entire string matches the defined pattern.
 
 ### Quantifiers
 
