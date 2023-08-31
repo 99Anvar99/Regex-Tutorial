@@ -35,6 +35,7 @@ In this tutorial, we will dissect a specific regex that validates email addresse
 - Character classes are shorthand representations for groups of characters. ```\w``` represents any word character (alphanumeric or underscore), and ```\.``` represents a literal dot. These are used to match parts of the email address.
 
 ### The OR Operator
+- The OR operator ```|``` allows us to match either of the expressions on its sides. We use it to match different top-level domains (TLDs) like ```.com```, ```.net```, etc.
 
 ### Flags
 
